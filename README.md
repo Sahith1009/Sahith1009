@@ -58,6 +58,7 @@
 - madhu
 - hasan
 - yaswanth
+- karthik
 
 ### *nested list*
 1. CSE
