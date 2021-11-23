@@ -1,20 +1,5 @@
-### Hi there 👋
 
-<!--
-**Sahith1009/Sahith1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### sahith tabular form
+# sahith tabular form
 |s.no|name|roll.no|branch|
 |----|----|-------|------|
 |1|K.Sahith|530|CSE|
@@ -22,10 +7,12 @@ Here are some ideas to get you started:
 |3|L.Sai Reddy|531|CSE|
 |4|Y.Sathwik|563|CSE|
 |5|Y.Madhu|565|CSE|
+|6|A.Yashwanth|503|CSE|
+|7|MD.Hasan raja|537|CSE|
 
 
-####LIST
-ordered list
+#### LIST
+##### ordered list
 1. EEE
 2. CSE
 3. ECE
@@ -34,7 +21,7 @@ ordered list
 6. CIVIL
 
 
-unordered list
+##### unordered list
 - sahith
 - vamsi
 - sai reddy
@@ -42,3 +29,8 @@ unordered list
 - madhu
 - hasan
 - yaswanth
+
+##### nested list
+1. CSE
+    * first year
+    * second year
