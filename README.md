@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-####
+#### sahith tabular form
 |s.no|name|roll.no|branch|
 |----|----|-------|------|
 |1|K.Sahith|530|CSE|
@@ -25,9 +25,20 @@ Here are some ideas to get you started:
 
 
 ####LIST
+ordered list
 1. EEE
 2. CSE
 3. ECE
 4. MECH
 5. IT
 6. CIVIL
+
+
+unordered list
+- sahith
+- vamsi
+- sai reddy
+- sathwik
+- madhu
+- hasan
+- yaswanth
