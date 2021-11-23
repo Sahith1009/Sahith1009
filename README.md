@@ -46,3 +46,30 @@ print("odd number")
 
 
 
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet"https://github.com/Sahith1009/workshop/blob/master/dhoni.jpg">
+</head>
+<body>
+
+<h2 style="text-align:center">User Profile Card</h2>
+
+<div class="card">
+  <img src="https://github.com/Sahith1009/workshop/blob/master/dhoni.jpg", style="width:50%">
+  <h1>***M.S.Dhoni***</h1>
+  <p class="title">#king of cricket</p>
+  
+  <div style="margin: 24px 0;">
+    <a href="#"><i class="fa fa-dribbble"></i></a> 
+    <a href="#"><i class="fa fa-twitter"></i></a>  
+    <a href="#"><i class="fa fa-linkedin"></i></a>  
+    <a href="#"><i class="fa fa-facebook"></i></a> 
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
