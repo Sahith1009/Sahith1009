@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-*sahith*
-***sahith***
+####
 |s.no|name|roll.no|branch|
 |----|----|-------|------|
 |1|K.Sahith|530|CSE|
@@ -23,3 +22,12 @@ Here are some ideas to get you started:
 |3|L.Sai Reddy|531|CSE|
 |4|Y.Sathwik|563|CSE|
 |5|Y.Madhu|565|CSE|
+
+
+####LIST
+1. EEE
+2. CSE
+3. ECE
+4. MECH
+5. IT
+6. CIVIL
